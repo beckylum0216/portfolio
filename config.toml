@@ -1,6 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Creative Theme"
+title = "More Than Beancounting"
 theme = "hugo-creative-theme"
 googleAnalytics = ""
 
@@ -29,7 +29,7 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "Hugo Creative Theme"
+		brand = "More Than Beancounting"
 
 		[params.navigation.links]
 			about     = "About"
